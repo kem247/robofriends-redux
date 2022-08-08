@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/obofriends-redux/static/css/main.a65eb059.chunk.css",
+    "main.js": "/obofriends-redux/static/js/main.3cb5c987.chunk.js",
+    "main.js.map": "/obofriends-redux/static/js/main.3cb5c987.chunk.js.map",
+    "runtime-main.js": "/obofriends-redux/static/js/runtime-main.70fe652c.js",
+    "runtime-main.js.map": "/obofriends-redux/static/js/runtime-main.70fe652c.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/obofriends-redux/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5bdf2fbf.chunk.js": "/obofriends-redux/static/js/2.5bdf2fbf.chunk.js",
+    "static/js/2.5bdf2fbf.chunk.js.map": "/obofriends-redux/static/js/2.5bdf2fbf.chunk.js.map",
+    "index.html": "/obofriends-redux/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/obofriends-redux/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.a65eb059.chunk.css.map": "/obofriends-redux/static/css/main.a65eb059.chunk.css.map",
+    "static/js/2.5bdf2fbf.chunk.js.LICENSE.txt": "/obofriends-redux/static/js/2.5bdf2fbf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/obofriends-redux/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70fe652c.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5bdf2fbf.chunk.js",
+    "static/css/main.a65eb059.chunk.css",
+    "static/js/main.3cb5c987.chunk.js"
+  ]
+}
